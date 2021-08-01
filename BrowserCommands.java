@@ -1,3 +1,4 @@
+// added a comment to check git feature
 package scripts;
 
 import org.testng.annotations.Test;
